@@ -1,0 +1,29 @@
+.display {
+    width: 100%;
+    padding: 12px;
+    background-color: #58cfef;
+    color: #fff;
+    border-radius: 6px 6px 0 0;
+    transition: all 0.3s ease-in-out;
+}
+
+.display .result {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 20px;
+    transition: all 0.3s ease-in-out;
+}
+
+.display .result .equal {
+    font-size: 25px;
+    transition: all 0.3s ease-in-out;
+}
+
+.display .typing {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    transition: all 0.3s ease-in-out;
+}

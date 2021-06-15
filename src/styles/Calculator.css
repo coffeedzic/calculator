@@ -1,0 +1,13 @@
+.calculator-wrap {
+    width: 300px;
+    margin: 0 auto;
+    margin-top: 32px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    box-shadow: 0 5px 8px rgb(0 0 0 / 16%), 0 5px 8px rgb(0 0 0 / 23%);
+    border-radius: 6px;
+    background-color: var(--dark);
+    color: var(--white);
+}

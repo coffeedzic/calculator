@@ -1,0 +1,11 @@
+.buttons {
+    width: 100%;
+}
+
+.buttons .column {
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    padding: 7.5px 0;
+}
